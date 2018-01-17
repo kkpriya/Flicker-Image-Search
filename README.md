@@ -10,7 +10,9 @@ The following Python code should be run on the terminal with the following comma
 	python3 proj3.py W
 
 Before the user does that, they should cd to the directory they have the project saved. 
-W is an integer that contains the width of the main window. Make sure it is within 600 to 1200 frame. **PREFERRED TO BE 800**
+W is an integer that contains the width of the main window. Make sure it is within 600 to 1200 frame. 
+
+**PREFERRED TO BE 800**
    EX:python3 proj3.py 800
 
 1.
